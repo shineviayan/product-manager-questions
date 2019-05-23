@@ -1,4 +1,4 @@
-# product-manager-questions
+# product-manager-interview-questions
 
 
 How do you spend your time on a daily/weekly manner? <br/>
