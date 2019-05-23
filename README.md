@@ -1,4 +1,4 @@
-# product-manager-interview-questions
+# Product Manager Interview Questions
 
 This is a collection of interview questions that I have consolidated during my preparation while interviewing as Product Manager. I have collected these questions from different sources like [Glassdoor](https://www.glassdoor.co.in) and other sites. <br/>
 
